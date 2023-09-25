@@ -16,7 +16,7 @@ this gives the inversion model the ability to generate images from text and from
 
 
 the examples below are generated using the inversion model such that the
-text given is "funko pop dull of {name} in a white background".
+text given is "funko pop figure of {name} in a white background".
 
 
 | Celebrty Name    | PopYou! Model | [deci diffusion](https://deci.ai/blog/decidiffusion-1-0-3x-faster-than-stable-diffusion-same-quality/) |
@@ -28,11 +28,11 @@ text given is "funko pop dull of {name} in a white background".
 
 these are examples using the clip image encoding of a face of the person.
 
-| Celebrty Name           | Image                                                        | PopYou! Model                                                 |
-|-------------------------|--------------------------------------------------------------|---------------------------------------------------------------|
-| Sun from Lost!          | <img src="assets/sun_Lost_image.webp" width="200">           | <img src="assets/sun_Lost_fastgan.png" width="200">           |
-| Bon from Lost!          | <img src="assets/bon_Lost_image.webp" width="200">           | <img src="assets/bon_Lost_fastgan.png" width="200">           |
-| Ras from SiliconValley  | <img src="assets/ras_SiliconValley_image.webp" width="200">  | <img src="assets/ras_SiliconValley_fastgan.png" width="200">  |
+| Celebrty Name        | Image                                                        | PopYou! Model                                                 |
+|----------------------|--------------------------------------------------------------|---------------------------------------------------------------|
+| Sun from Lost        | <img src="assets/sun_Lost_image.webp" width="200">           | <img src="assets/sun_Lost_fastgan.png" width="200">           |
+| Bon from Lost        | <img src="assets/bon_Lost_image.webp" width="200">           | <img src="assets/bon_Lost_fastgan.png" width="200">           |
+| Ras from SiliconValley | <img src="assets/ras_SiliconValley_image.webp" width="200">  | <img src="assets/ras_SiliconValley_fastgan.png" width="200">  |
 | Lori from SiliconValley | <img src="assets/lori_SiliconValley_image.jpeg" width="200"> | <img src="assets/lori_SiliconValley_fastgan.png" width="200"> |
 
 
