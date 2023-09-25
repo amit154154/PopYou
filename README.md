@@ -9,7 +9,7 @@ Using Gans and not diffusion, such that the runtime and memory requirements are 
 first I generated 30000 images of funko using the componey deci new diffusion model.
 Then I used the dataset to train a GAN model using FastGan and the results are below.
 
-![FastGan examples](/Users/mac/PycharmProjects/PopYou!/assets/fast_gan_examples.jpg)
+![FastGan examples](assets/fast_gan_examples.jpg)
 
 after that I froze the gan and created an inversion model using frozen clip as backbone,
 this gives the inversion model the ability to generate images from text and from images in other domains such as real images of people and faces.
