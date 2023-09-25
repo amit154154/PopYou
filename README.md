@@ -19,11 +19,11 @@ the examples below are generated using the inversion model such that the
 text given is "funko pop dull of {name} in a white background".
 
 
-| Celebrty Name    | PopYou! Model | Different Model                                      |
-|------------------|---------------|------------------------------------------------------|
-| Barack Obama     | <img src="assets/Barack_Obama_fastgan.png" width="200"> | <img src="assets/Barack_Obama_deci.png" width="200"> |
-| Alan Turing      | <img src="assets/Alan_Turing_fastgan.png" width="200"> | <img src="assets/Alan_Turing_deci.png" width="200">  |
-| Elsa from frozen | <img src="assets/Elsa_fastgan.png" width="200"> | <img src="assets/Elsa_deci.png" width="200">         |
+| Celebrty Name    | PopYou! Model | [deci diffusion](https://deci.ai/blog/decidiffusion-1-0-3x-faster-than-stable-diffusion-same-quality/) |
+|------------------|---------------|--------------------------------------------------------------------------------------------------------|
+| Barack Obama     | <img src="assets/Barack_Obama_fastgan.png" width="200"> | <img src="assets/Barack_Obama_deci.png" width="200">                                                   |
+| Alan Turing      | <img src="assets/Alan_Turing_fastgan.png" width="200"> | <img src="assets/Alan_Turing_deci.png" width="200">                                                    |
+| Elsa from frozen | <img src="assets/Elsa_fastgan.png" width="200"> | <img src="assets/Elsa_deci.png" width="200">                                                           |
 
 
 these are examples using the clip image encoding of a face of the person.
