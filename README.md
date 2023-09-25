@@ -6,7 +6,7 @@ Using Gans and not diffusion, such that the runtime and memory requirements are 
 
 ## Method
 
-first I generated 30000 images of funko using the componey deci new diffusion model.
+first I generated 30000 images of funko using [deci diffusion](https://deci.ai/blog/decidiffusion-1-0-3x-faster-than-stable-diffusion-same-quality/).
 Then I used the dataset to train a GAN model using FastGan and the results are below.
 
 ![FastGan examples](assets/fast_gan_examples.jpg)
@@ -44,3 +44,6 @@ these are examples using the clip image encoding of a face of the person.
 | clip similarity | 0.32    | 0.34           |
 | Fid             | 562     | 258            |
 
+Note:
+The fid is calculate between a folder generated from the model and the real images of funko pop.
+The clip similarity is calculated between the text and the image generated from the model, it uses the text prefix above and a list 300 famous people.
