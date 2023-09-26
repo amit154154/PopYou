@@ -36,6 +36,16 @@ these are examples using the clip image encoding of a face of the person.
 | Lori from SiliconValley | <img src="assets/lori_SiliconValley_image.jpeg" width="200"> | <img src="assets/lori_SiliconValley_fastgan.png" width="200"> |
 
 
+these are examples using the clip text encoding when it uses the prfiex " funko pop figure of a {text} in a white background".
+
+| text                    | PopYou! Model                                     | clip similarty |
+|-------------------------|---------------------------------------------------|----------------|
+| tall man with a beard and a black shirt          | <img src="assets/text_1_example.png" width="200"> | 0.389          |
+| woman with a blonde short hair           | <img src="assets/text_2_example.png" width="200"> | 0.342          |
+| cool man in suite and glasses  | <img src="assets/text_3_example.png" width="200"> | 0.354          |
+| tall thin man with blue pants and black hair  | <img src="assets/text_4_example.png" width="200"> | 0.380          |
+
+
 
 ## Results
 
