@@ -41,7 +41,7 @@ these are examples using the clip image encoding of a face of the person.
 
 |                 | PopYou! | deci diffusion |
 |-----------------|---------|----------------|
-| clip similarity | 0.32    | 0.34           |
+| clip similarity | 0.31    | 0.33           |
 | Fid             | 562     | 258            |
 
 Note:
