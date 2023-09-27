@@ -46,6 +46,17 @@ these are examples using the clip text encoding when it uses the prfiex " funko 
 | tall thin man with blue pants and black hair  | <img src="assets/text_4_example.png" width="200"> | 0.380          |
 
 
+## 3D Generation
+
+Using the latest advancement in diffusion models and textual inversion, we can generate the pop as a mesh or generate it from diffrent views.
+Also we can use textual inversion to generate the pop with stable diffusion, for more information read about textual inversion.
+example of images generated using ["SyncDreamer: Generating Multiview-consistent Images from a Single-view Image"(2023)](https://arxiv.org/abs/2309.03453)
+
+
+| PopYou! Image generated | SyncDreamer 3d renders output         |
+|-------------------------|---------------------------------------|
+| <img src="assets/Alan_Turing_fastgan.png" width="200">                    | <img src="assets/alan_turing_3d.png"> |
+| <img src="assets/ras_SiliconValley_fastgan.png" width="200">                     | <img src="assets/ras_3d.png">         |
 
 ## Results
 
