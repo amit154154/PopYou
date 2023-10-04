@@ -50,7 +50,7 @@ these are examples using the clip text encoding when it uses the prfiex " funko 
 
 Using the latest advancement in diffusion models and textual inversion, we can generate the pop as a mesh or generate it from diffrent views.
 Also we can use textual inversion to generate the pop with stable diffusion, for more information read about textual inversion.
-example of images generated using ["SyncDreamer: Generating Multiview-consistent Images from a Single-view Image"(2023)](https://arxiv.org/abs/2309.03453)
+example of images generated using SOTA image to 3d models.
 
 
 | PopYou! Image | [SyncDreamer](https://arxiv.org/abs/2309.03453)                     | [DreamGaussian](https://dreamgaussian.github.io/)                                              |
