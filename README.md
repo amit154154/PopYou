@@ -53,10 +53,10 @@ Also we can use textual inversion to generate the pop with stable diffusion, for
 example of images generated using ["SyncDreamer: Generating Multiview-consistent Images from a Single-view Image"(2023)](https://arxiv.org/abs/2309.03453)
 
 
-| PopYou! Image generated | SyncDreamer 3d renders output                    |
-|-------------------------|--------------------------------------------------|
-| <img src="assets/Alan_Turing_fastgan.png" width="200">                    | <img src="assets/alan_turing_3d.png"> |
-| <img src="assets/ras_SiliconValley_fastgan.png" width="200">                     | <img src="assets/ras_3d.png">         |
+| PopYou! Image | [SyncDreamer](https://arxiv.org/abs/2309.03453)                     | [DreamGaussian](https://dreamgaussian.github.io/)   |
+|-------------------------|---------------------------------------|-----------------------------------------------------|
+| <img src="assets/Alan_Turing_fastgan.png" width="200">                    | <img src="assets/alan_turing_3d.png"> | <video src="assets/alan_turing_dreamgaussian.mp4" width="200"> |
+| <img src="assets/ras_SiliconValley_fastgan.png" width="200">                     | <img src="assets/ras_3d.png">         |                                                     |
 
 ## Results
 
